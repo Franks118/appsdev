@@ -1,0 +1,19 @@
+    double discountedPrice;
+    double purchaseAmount = Convert.ToDouble(textBox1.Text);
+
+    double discountRate = 0.10; // 10% discount rate
+
+
+
+    if (1000 >= purchaseAmount)
+    {
+        //if its less than 1000
+        textBox2.Text =(" Discount: No Discount ");
+    }
+    else
+    {
+        // Apply the discount if the purchase amount is greater than 1000
+        discountedPrice = purchaseAmount * discountRate;
+        textBox2.Text = ($"Discounted price: {discountedPrice:N2}");
+    }
+}
