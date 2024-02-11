@@ -1,0 +1,10 @@
+D:\c#\ifelse4windows\ifelse4windows\bin\Debug\ifelse4windows.exe.config
+D:\c#\ifelse4windows\ifelse4windows\bin\Debug\ifelse4windows.exe
+D:\c#\ifelse4windows\ifelse4windows\bin\Debug\ifelse4windows.pdb
+D:\c#\ifelse4windows\ifelse4windows\obj\Debug\ifelse4windows.csproj.AssemblyReference.cache
+D:\c#\ifelse4windows\ifelse4windows\obj\Debug\ifelse4windows.Form1.resources
+D:\c#\ifelse4windows\ifelse4windows\obj\Debug\ifelse4windows.Properties.Resources.resources
+D:\c#\ifelse4windows\ifelse4windows\obj\Debug\ifelse4windows.csproj.GenerateResource.cache
+D:\c#\ifelse4windows\ifelse4windows\obj\Debug\ifelse4windows.csproj.CoreCompileInputs.cache
+D:\c#\ifelse4windows\ifelse4windows\obj\Debug\ifelse4windows.exe
+D:\c#\ifelse4windows\ifelse4windows\obj\Debug\ifelse4windows.pdb
