@@ -1,0 +1,14 @@
+D:\c#\ifelse4\ifelse4\bin\Debug\net8.0\ifelse4.exe
+D:\c#\ifelse4\ifelse4\bin\Debug\net8.0\ifelse4.deps.json
+D:\c#\ifelse4\ifelse4\bin\Debug\net8.0\ifelse4.runtimeconfig.json
+D:\c#\ifelse4\ifelse4\bin\Debug\net8.0\ifelse4.dll
+D:\c#\ifelse4\ifelse4\bin\Debug\net8.0\ifelse4.pdb
+D:\c#\ifelse4\ifelse4\obj\Debug\net8.0\ifelse4.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\ifelse4\ifelse4\obj\Debug\net8.0\ifelse4.AssemblyInfoInputs.cache
+D:\c#\ifelse4\ifelse4\obj\Debug\net8.0\ifelse4.AssemblyInfo.cs
+D:\c#\ifelse4\ifelse4\obj\Debug\net8.0\ifelse4.csproj.CoreCompileInputs.cache
+D:\c#\ifelse4\ifelse4\obj\Debug\net8.0\ifelse4.dll
+D:\c#\ifelse4\ifelse4\obj\Debug\net8.0\refint\ifelse4.dll
+D:\c#\ifelse4\ifelse4\obj\Debug\net8.0\ifelse4.pdb
+D:\c#\ifelse4\ifelse4\obj\Debug\net8.0\ifelse4.genruntimeconfig.cache
+D:\c#\ifelse4\ifelse4\obj\Debug\net8.0\ref\ifelse4.dll
