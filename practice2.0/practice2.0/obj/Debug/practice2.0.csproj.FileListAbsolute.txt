@@ -1,0 +1,11 @@
+D:\c#\practice2.0\practice2.0\bin\Debug\practice2.0.exe.config
+D:\c#\practice2.0\practice2.0\bin\Debug\practice2.0.exe
+D:\c#\practice2.0\practice2.0\bin\Debug\practice2.0.pdb
+D:\c#\practice2.0\practice2.0\obj\Debug\practice2.0.csproj.AssemblyReference.cache
+D:\c#\practice2.0\practice2.0\obj\Debug\practice2._0.Form1.resources
+D:\c#\practice2.0\practice2.0\obj\Debug\practice2._0.preview.resources
+D:\c#\practice2.0\practice2.0\obj\Debug\practice2._0.Properties.Resources.resources
+D:\c#\practice2.0\practice2.0\obj\Debug\practice2.0.csproj.GenerateResource.cache
+D:\c#\practice2.0\practice2.0\obj\Debug\practice2.0.csproj.CoreCompileInputs.cache
+D:\c#\practice2.0\practice2.0\obj\Debug\practice2.0.exe
+D:\c#\practice2.0\practice2.0\obj\Debug\practice2.0.pdb
