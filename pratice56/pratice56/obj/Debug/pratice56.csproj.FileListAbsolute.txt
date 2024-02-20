@@ -1,0 +1,11 @@
+D:\c#\pratice56\pratice56\bin\Debug\pratice56.exe.config
+D:\c#\pratice56\pratice56\bin\Debug\pratice56.exe
+D:\c#\pratice56\pratice56\bin\Debug\pratice56.pdb
+D:\c#\pratice56\pratice56\obj\Debug\pratice56.csproj.AssemblyReference.cache
+D:\c#\pratice56\pratice56\obj\Debug\pratice56.preview.resources
+D:\c#\pratice56\pratice56\obj\Debug\pratice56.Form1.resources
+D:\c#\pratice56\pratice56\obj\Debug\pratice56.Properties.Resources.resources
+D:\c#\pratice56\pratice56\obj\Debug\pratice56.csproj.GenerateResource.cache
+D:\c#\pratice56\pratice56\obj\Debug\pratice56.csproj.CoreCompileInputs.cache
+D:\c#\pratice56\pratice56\obj\Debug\pratice56.exe
+D:\c#\pratice56\pratice56\obj\Debug\pratice56.pdb
