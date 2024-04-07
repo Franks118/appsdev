@@ -1,0 +1,35 @@
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.exe
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.deps.json
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.runtimeconfig.json
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.dll
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.pdb
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.csproj.GenerateResource.cache
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.AssemblyInfo.cs
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.dll
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\refint\Hangman.dll
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.pdb
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.genruntimeconfig.cache
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\ref\Hangman.dll
+C:\Users\danie\Documents\C# Repos\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.Hangman.resources
+D:\Hangman\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.exe
+D:\Hangman\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.deps.json
+D:\Hangman\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.runtimeconfig.json
+D:\Hangman\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.dll
+D:\Hangman\Hangman\Hangman\bin\Debug\net8.0-windows\Hangman.pdb
+D:\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.Hangman.resources
+D:\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.csproj.GenerateResource.cache
+D:\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.AssemblyInfoInputs.cache
+D:\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.AssemblyInfo.cs
+D:\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.csproj.CoreCompileInputs.cache
+D:\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.dll
+D:\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\refint\Hangman.dll
+D:\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.pdb
+D:\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.genruntimeconfig.cache
+D:\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\ref\Hangman.dll
+D:\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.Form1.resources
+D:\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.Properties.Resources.resources
+D:\Hangman\Hangman\Hangman\obj\Debug\net8.0-windows\Hangman.Properties.Wins.resources
